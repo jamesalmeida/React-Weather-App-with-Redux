@@ -10,6 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+(Make sure to add you own API key in the actions/index.js file from https://api.openweathermap.org)
 
 # ReduxSimpleStarter
 
