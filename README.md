@@ -12,6 +12,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 (Make sure to add you own API key in the actions/index.js file from https://api.openweathermap.org)
 
-# ReduxSimpleStarter
+## Screenshot ![Weather App Screenshot](https://i.imgur.com/uz5ySxT.png "Weather App Screenshot")
+
+## ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
